@@ -10,9 +10,7 @@ It demonstrates user roles, permissions, and an API to check access levels in a 
 - Many-to-many relationship between Roles and Permissions
 - API endpoint to check permissions per user
 - Sample data: Alice (Admin), Bob (Editor), Eve (Viewer)
-
-![RBAC Output](Screenshot/Screenshot.png)
-
+  
 ## Installation
 
 1. Clone the repository:
